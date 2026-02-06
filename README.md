@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender&logoColor=white&color=F5792A" alt="Blender" />
   </div>
 
-  <h3 align="center">Custom Shelf</h3>
+  <h3 align="center">Original Eco Bag </h3>
   <br />
 </div>
 
@@ -29,7 +29,7 @@
 ## <a name="link">🔗 サイトのURL</a>
 
 <a href="https://react-three-ecobag-configurator.vercel.app" target="_blank" rel="noopener noreferrer">
-Custom Shelf
+Original Eco Bag 
 </a>
 <div>
   <br />
