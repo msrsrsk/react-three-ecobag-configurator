@@ -73,7 +73,7 @@ Original Eco Bag
 
 | カテゴリー     | 使用技術                                                           |
 | -------------- | ------------------------------------------------------------------ |
-| Front-end      | React 18, Vite, Three.js, React Three Fiber, React Three Drei, Zustand, maath, r3f-perf |
+| Front-end      | React 18, Three.js, React Three Fiber, React Three Drei, r3f-perf, Zustand, maath, Vite |
 | Modeling       | Blender（エコバッグモデル制作） |
 | Infrastructure | Vercel（Hosting） |
 
@@ -83,12 +83,9 @@ Original Eco Bag
 
 ## <a name="more">📙 あとがき</a>
 
-これまでのサイト制作は 2D だったため、3D の世界に入って<br />
-Blender で制作したモデルを Three.js で画面上で動くように<br />
-実装できたことがとても面白かったです。<br />
-<br />
-最初はアップロードしたい画像がなかなか表示されず諦めかけましたが、<br />
-コードの試行錯誤で無事表示させることができました。<br />
+Three.js のアドオン機能の Decal を用いてアップロード画像をモデル上に表示しています。<br />
+最初は自分のコードの指定が上手くいかず、モデル上に画像がなかなか表示されず諦めかけましたが、<br />
+試行錯誤をして無事表示させることができました。<br />
 <br />
 今後も Three.js に関する知識を深めていけたらと思います。<br />
 最後までお読みいただきありがとうございました！
